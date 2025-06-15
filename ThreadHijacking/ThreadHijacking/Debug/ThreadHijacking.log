@@ -1,0 +1,33 @@
+﻿  ThreadHijacking.cpp
+C:\Users\aaron\source\repos\ThreadHijacking\ThreadHijacking\ThreadHijacking.cpp(103,28): error C2039: "Rsp": no es un miembro de "_CONTEXT"
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(8236,35):
+      vea la declaración de '_CONTEXT'
+  
+C:\Users\aaron\source\repos\ThreadHijacking\ThreadHijacking\ThreadHijacking.cpp(107,6): error C2039: "Rip": no es un miembro de "_CONTEXT"
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(8236,35):
+      vea la declaración de '_CONTEXT'
+  
+C:\Users\aaron\source\repos\ThreadHijacking\ThreadHijacking\ThreadHijacking.cpp(108,6): error C2039: "Rcx": no es un miembro de "_CONTEXT"
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(8236,35):
+      vea la declaración de '_CONTEXT'
+  
+C:\Users\aaron\source\repos\ThreadHijacking\ThreadHijacking\ThreadHijacking.cpp(109,6): error C2039: "Rdx": no es un miembro de "_CONTEXT"
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(8236,35):
+      vea la declaración de '_CONTEXT'
+  
+C:\Users\aaron\source\repos\ThreadHijacking\ThreadHijacking\ThreadHijacking.cpp(110,6): error C2039: "R8": no es un miembro de "_CONTEXT"
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(8236,35):
+      vea la declaración de '_CONTEXT'
+  
+C:\Users\aaron\source\repos\ThreadHijacking\ThreadHijacking\ThreadHijacking.cpp(111,6): error C2039: "R9": no es un miembro de "_CONTEXT"
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(8236,35):
+      vea la declaración de '_CONTEXT'
+  
+C:\Users\aaron\source\repos\ThreadHijacking\ThreadHijacking\ThreadHijacking.cpp(112,6): error C2039: "Rsp": no es un miembro de "_CONTEXT"
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(8236,35):
+      vea la declaración de '_CONTEXT'
+  
+C:\Users\aaron\source\repos\ThreadHijacking\ThreadHijacking\ThreadHijacking.cpp(133,6): error C2039: "Rip": no es un miembro de "_CONTEXT"
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(8236,35):
+      vea la declaración de '_CONTEXT'
+  

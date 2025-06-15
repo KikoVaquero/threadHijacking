@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aaron\\source\\repos\\ThreadHijacking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC393D8-FB46-43B3-8AF2-1CDBBEA959CA}|ThreadHijacking\\ThreadHijacking.vcxproj|C:\\Users\\aaron\\source\\repos\\ThreadHijacking\\ThreadHijacking\\ThreadHijacking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACC393D8-FB46-43B3-8AF2-1CDBBEA959CA}|ThreadHijacking\\ThreadHijacking.vcxproj|solutionrelative:ThreadHijacking\\ThreadHijacking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThreadHijacking.cpp",
+              "DocumentMoniker": "C:\\Users\\aaron\\source\\repos\\ThreadHijacking\\ThreadHijacking\\ThreadHijacking.cpp",
+              "RelativeDocumentMoniker": "ThreadHijacking\\ThreadHijacking.cpp",
+              "ToolTip": "C:\\Users\\aaron\\source\\repos\\ThreadHijacking\\ThreadHijacking\\ThreadHijacking.cpp",
+              "RelativeToolTip": "ThreadHijacking\\ThreadHijacking.cpp",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAswKcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-13T13:38:20.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
