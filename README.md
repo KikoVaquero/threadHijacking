@@ -5,7 +5,7 @@ El programa permanece a la espera de que el usuario seleccione el proceso sobre 
 
 En este ejemplo, se selecciona el PID del proceso `notepad.exe`, que en este caso es `7360`:
 
-![[capturas/seleccionPID.png]]
+![[seleccionPID.png]]
 
 Una vez seleccionado el proceso, se realiza directamente la inyección del `shellcode`:
 
